@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Yukisuhii</h1>
 <p align="center">🔥 Actualmente estoy aprendiendo <strong>Python y JavaScript</strong></p>
-<p align="center"><img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/1f/41/9e/1f419e11c7ae3241f915625b4e8f03a1.gif"></p>
+<p align="center"><img align="center" alt="gif" width="500" src="https://i.pinimg.com/originals/a0/37/54/a037544cbb5c58875ace76db08d83ec2.gif"></p>
 
 <h2 align="center">🛠 Lenguajes y Herramientas:</h2>
 <p align="center">
